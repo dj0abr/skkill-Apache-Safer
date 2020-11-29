@@ -1,5 +1,6 @@
 # skkill-Apache-Safer
-scans log files for signature of attacks in the webserver or via ssh, then blocks the hacker for one month
+scans log files for signature of attacks in the webserver or via ssh, then blocks the hacker for one month.
+There are other solutions available, but far too complicated for my purpose, I need something simple which can be easily configured without years of studying.
 
 skkill blocks IP addresses automatically
 ==================================================
