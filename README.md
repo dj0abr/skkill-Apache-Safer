@@ -12,9 +12,13 @@ Example:
 Hackers scan the internet for unconfigured PHPs:
 
 104.248.227.214 - - [29/Nov/2020:14:07:02 +0100] "GET //phpMyAdmin/scripts/setup.php HTTP/1.1" 404 455 "-" "-"
+
 104.248.227.214 - - [29/Nov/2020:14:07:02 +0100] "GET //phpmyadmin/scripts/setup.php HTTP/1.1" 404 455 "-" "-"
+
 104.248.227.214 - - [29/Nov/2020:14:07:02 +0100] "GET //myadmin/scripts/setup.php HTTP/1.1" 404 455 "-" "-"
+
 104.248.227.214 - - [29/Nov/2020:14:07:02 +0100] "GET //MyAdmin/scripts/setup.php HTTP/1.1" 404 455 "-" "-"
+
 
 skkill scans for these patterns, if detected then the IP is immediately blocked for one month.
 
