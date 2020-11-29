@@ -24,12 +24,6 @@ skkill scans for these patterns, if detected then the IP is immediately blocked 
 
 The search patterns can be freely entered into a file.
 
-Overview: skkill blocks IP addresses automatically
-==================================================
-   this program scans log files for specific patterns. If a pattern matches, then it looks for an IP address and
-   blocks it by entering a DROP statement into iptables.
-   You can list all blocked IPs with the command:  iptables -L  or  iptables -L -n 
-
 Configuration:
 ==============
 
