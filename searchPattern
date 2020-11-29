@@ -1,0 +1,47 @@
+POSSIBLE BREAKIN
+Did not receive identification
+Invalid user
+invalid user
+SEARCH /\x
+slurp
+cgi-bin
+URI too long
+Timeout before authentication
+no such user found
+GET /cm
+GET /db
+GET /my
+GET /php
+GET /config
+GET /xx
+GET /shell
+GET /web
+GET /log
+GET /htdocs
+GET /desktop
+GET /muieblackcat
+phpMyAdmin
+phpmyadmin
+myadmin
+MyAdmin
+Admin
+GET //admin
+GET //MySql
+Cannot serve directory
+forbidden
+authentication failure
+formLogin
+logon.aspx
+login.aspx
+webman
+webfm
+synoSDS
+/owa
+/scripts
+/css/style.css
+/apple
+phpunit
+wordpress
+wp-
+LogService
+
